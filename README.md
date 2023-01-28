@@ -4,3 +4,4 @@
 
 1. 2023/01/17 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/148653" target="_blank" rel="external"> 프로그래머스 연습문제 마법의 엘리베이터</a>
 2. 2023/01/18 - <a href="https://school.programmers.co.kr/learn/courses/30/lessons/135808" target="_blank" rel="external"> 프로그래머스 연습문제 과일 장수</a>
+3. 2023/01/28 - <a href="https://www.acmicpc.net/problem/10250" target="_blank" rel="external"> 백준 연습문제 ACM 호텔</a>
